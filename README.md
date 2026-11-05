@@ -43,7 +43,7 @@ Insert roblox skill builder here:
 
 - Expérience : Aucune
 - Logiciels et outils : Toon Boom Harmony puis Blender
-- Pourquoi il m'intéresse : Comparer à un dessin, l'animation peut permettre une plus grande liberté d'expression. Ça permet à mon côté artistique de libéré tous son pouvoir de "Go all out"
+- Pourquoi il m'intéresse : Comparer à un dessin, l'animation peut permettre une plus grande liberté d'expression. Ça permet à mon côté artistique de libéré tous son pouvoir et de pouvoir aller "Go all out".
 
 
 <img width="498" height="280" alt="elden ring animation gif" src="https://github.com/user-attachments/assets/954e09b1-f0b7-430f-860c-8d419f7d43c9" />
