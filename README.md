@@ -50,7 +50,7 @@ Insert roblox skill builder here:
 
 
 
-(source de l'animation : [ici](https://ca.pinterest.com/pin/522136150567141528/))
+(source de l'animation : [Elden Ring Kiecaburn GIF](https://ca.pinterest.com/pin/522136150567141528/))
 
 - Travailler dans ce domaine : Si le jeux vidéo marche pas, c'est une option qui me dérange pas trop. 
 
