@@ -61,7 +61,9 @@ Insert roblox skill builder here:
 
 
 Fromsoftware
+
 <img width="831" height="323" alt="fromsoftware" src="https://github.com/user-attachments/assets/2c1fc3b7-8f6e-4cc7-9586-eed36aae9f33" />
+
 (source de l'image : [ici](https://www.google.com/search?q=fromsoftware&sa=X&sca_esv=0dbae6ffb17a643b&rlz=1C1GCEA_enCA1239CA1239&sxsrf=AKL5yDjYeBs6Vi2-FlYdVv_VwFuOlMpkIQ:1793887290235&udm=2&fbs=ACAhTvwdifjn2dKXmjtOfBxVFl_kNo0J7LRbgf5U9cgi9kOJRgtc0h3s1Z3ASvXUCDn61Q6oFlGeilJ22DqOShfkxBB5QkPW0mahLFTBB4Ypwms-h72O3vnCAPyGqd9ZA_7rbH2EUb799KpYAiBHyGCjdUOEvpynug6FB_ytlaKLwvlNw7Q_Xo8BdLf5sUX-hIyaHZBYtpb7SBhRf1OkEfw01qIyA_jY9g&ved=2ahUKEwjBgM71_vCXAxWiiisGHdZPK4QQtKgLegQIBBAL&biw=1278&bih=1301&dpr=1.5#sv=CAMSURoyKhBlLUh1RElLWDVFWmEzTUlNMg5IdURJS1g1RVphM01JTToOUjltWUtOanB2WVc3bk0gBCoXCgFzEhBlLUh1RElLWDVFWmEzTUlNGAEwARgHIPuNs_YCSggQAhgBIAIoAQ))
 
 - Types de produits et de services : Jeux vidéo
@@ -74,8 +76,11 @@ Fromsoftware
 -Diplôme universitaire (ou d'études supérieures), ou 10 ans d'expérience professionnelle dans le domaine de l'art ou du design graphique.
 
 (Toute période consacrée à des études d'art ou de design graphique peut être prise en compte dans le calcul de cette expérience professionnelle.)
+
 -Apte à travailler à Tokyo, au Japon.
+
 -Capacité à converser aisément en japonais ou en anglais. 
+
 -Les candidats retenus devront apprendre le japonais et l'utiliser autant que possible dans le cadre de leur travail.
 
 (source: Site officiel d'emploi de Fromsoftware  [ici](https://careers.fromsoftware.jp/en/concept_artist.html)) 
@@ -83,10 +88,18 @@ Fromsoftware
 ## Conclusion
 
 - Mon profil en une phrase : Je suis un esprit généreux qui arrive à trouver un équilibre entre le travail et les besoins personnels, mon esprit créatif et émotif permet de rendre mes travaux plus intéressant et donne plus de personnalité au travail.
+
 - Ce qui m'a surpris : La simplicité dans la complexité de certain logiciels: html/css. 
+
+
 - Ma force principale et la faiblesse à travailler : Mon esprit créatif va beaucoup m'aider dans mon avenir mais je vais devoir travailler sur mon horaire de sommeil, cela ne donne pas une bonne impression dans un milieu proffessionel. 
+
+
 - Mon action d'ici la fin de la session : De continuer comme ça puis de ne pas lâcher malgré la bullshit que l'école peut nous donner.
 
 ## Ma capsule
 
-![Mon interface OBS](obs.png)
+![Mon interface OBS]
+
+<img width="1919" height="1079" alt="Screenshot 2026-11-05 193614" src="https://github.com/user-attachments/assets/afaebb61-4d34-4619-a991-9cda2b51cbcd" />
+
