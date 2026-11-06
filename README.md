@@ -101,5 +101,6 @@ Fromsoftware
 
 ![Mon interface OBS]
 
-<img width="1919" height="1079" alt="Screenshot 2026-11-05 193614" src="https://github.com/user-attachments/assets/afaebb61-4d34-4619-a991-9cda2b51cbcd" />
+<img width="1919" height="1079" alt="obs png" src="https://github.com/user-attachments/assets/636b6144-0381-4207-8cfc-a760f35dca85" />
+
 
